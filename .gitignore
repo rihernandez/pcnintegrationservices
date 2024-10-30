@@ -1,0 +1,67 @@
+# Compiled binary and object files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# .NET Core directories
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM / Yarn dependencies
+node_modules/
+
+# Environment
+.env
+
+# Visual Studio folders
+.vscode/
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Azure Web App publish folder
+.publish/
+
+# Rider project files
+.idea/
+
+# Logs
+*.log
+*.tlog
+*.trace
+
+# Package directories
+**/packages/
+*.nupkg
+
+# Mac trash folder which can appear on network shares
+.DS_Store
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db

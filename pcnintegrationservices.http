@@ -1,0 +1,6 @@
+@pcnintegrationservices_HostAddress = http://localhost:5296
+
+GET {{pcnintegrationservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
